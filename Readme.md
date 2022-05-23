@@ -3,6 +3,16 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br>
+
+### About Me
+
+- ⚡️ Dev at <a href="https://www.valuecoders.com//" target="_blank">Valuecoders LLP</a>.
+- 👨‍💻 Enjoy collaborating on `open source` projects.
+  <!-- - ✈️ Fun Fact: Love international travel. -->
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raazatul7&label=Profile%20views&color=0e75b6&style=flat" alt="raazatul7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raazatul7" alt="raazatul7" /></a> </p>
